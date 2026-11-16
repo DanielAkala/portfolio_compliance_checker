@@ -1,0 +1,46 @@
+security_id,name,issuer,sector,asset_class,rating,price
+AAPL,Apple Inc. Common,Apple Inc.,Technology,Equity,,190.0
+MSFT,Microsoft Corp. Common,Microsoft Corp.,Technology,Equity,,410.0
+NVDA,NVIDIA Corp. Common,NVIDIA Corp.,Technology,Equity,,120.0
+AVGO,Broadcom Inc. Common,Broadcom Inc.,Technology,Equity,,165.0
+ORCL,Oracle Corp. Common,Oracle Corp.,Technology,Equity,,140.0
+CRM,Salesforce Inc. Common,Salesforce Inc.,Technology,Equity,,290.0
+ADBE,Adobe Inc. Common,Adobe Inc.,Technology,Equity,,520.0
+CSCO,Cisco Systems Common,Cisco Systems Inc.,Technology,Equity,,58.0
+GOOGL,Alphabet Inc. Class A,Alphabet Inc.,Communication Services,Equity,,170.0
+META,Meta Platforms Common,Meta Platforms Inc.,Communication Services,Equity,,500.0
+VZ,Verizon Common,Verizon Communications,Communication Services,Equity,,41.0
+AMZN,Amazon.com Common,Amazon.com Inc.,Consumer Discretionary,Equity,,185.0
+HD,Home Depot Common,The Home Depot Inc.,Consumer Discretionary,Equity,,360.0
+NKE,Nike Inc. Class B,Nike Inc.,Consumer Discretionary,Equity,,80.0
+UNH,UnitedHealth Common,UnitedHealth Group,Health Care,Equity,,520.0
+ABT,Abbott Labs Common,Abbott Laboratories,Health Care,Equity,,110.0
+JNJ,Johnson & Johnson Common,Johnson & Johnson,Health Care,Equity,,155.0
+PFE,Pfizer Common,Pfizer Inc.,Health Care,Equity,,28.0
+V,Visa Inc. Class A,Visa Inc.,Financials,Equity,,280.0
+JPM,JPMorgan Chase Common,JPMorgan Chase & Co.,Financials,Equity,,200.0
+GS,Goldman Sachs Common,Goldman Sachs Group,Financials,Equity,,450.0
+BAC,Bank of America Common,Bank of America Corp.,Financials,Equity,,38.0
+CAT,Caterpillar Common,Caterpillar Inc.,Industrials,Equity,,340.0
+HON,Honeywell Common,Honeywell International,Industrials,Equity,,205.0
+UNP,Union Pacific Common,Union Pacific Corp.,Industrials,Equity,,240.0
+PG,Procter & Gamble Common,Procter & Gamble Co.,Consumer Staples,Equity,,165.0
+KO,Coca-Cola Common,The Coca-Cola Co.,Consumer Staples,Equity,,62.0
+MO,Altria Group Common,Altria Group Inc.,Consumer Staples,Equity,,50.0
+PM,Philip Morris Common,Philip Morris International,Consumer Staples,Equity,,120.0
+XOM,Exxon Mobil Common,Exxon Mobil Corp.,Energy,Equity,,115.0
+CVX,Chevron Common,Chevron Corp.,Energy,Equity,,155.0
+NEE,NextEra Energy Common,NextEra Energy Inc.,Utilities,Equity,,72.0
+DUK,Duke Energy Common,Duke Energy Corp.,Utilities,Equity,,105.0
+UST10,US Treasury 4.25% 2035,US Treasury,Government,Bond,AAA,98.5
+UST30,US Treasury 4.50% 2055,US Treasury,Government,Bond,AAA,96.75
+MSFT_B,Microsoft 3.70% 2046,Microsoft Corp.,Technology,Bond,AAA,92.4
+AAPL_B,Apple 3.85% 2043,Apple Inc.,Technology,Bond,AA,94.1
+JPM_B,JPMorgan 4.25% 2033,JPMorgan Chase & Co.,Financials,Bond,A,97.2
+VZ_B,Verizon 4.40% 2034,Verizon Communications,Communication Services,Bond,BBB,96.3
+DUK_B,Duke Energy 4.50% 2032,Duke Energy Corp.,Utilities,Bond,A,98.1
+PFE_B,Pfizer 4.10% 2036,Pfizer Inc.,Health Care,Bond,A,95.6
+XOM_B,Exxon Mobil 3.45% 2040,Exxon Mobil Corp.,Energy,Bond,AA,88.9
+F_B,Ford Motor 6.10% 2032,Ford Motor Co.,Consumer Discretionary,Bond,BB,99.8
+CCL_B,Carnival 6.00% 2029,Carnival Corp.,Consumer Discretionary,Bond,B,98.4
+CASH,US Dollar Cash,Cash,Cash,Cash,,1.0

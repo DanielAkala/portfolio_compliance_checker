@@ -1,0 +1,17 @@
+rule_id,portfolio_id,rule_type,parameter,limit_value,severity,description
+R01,P1,MAX_ISSUER_WEIGHT,,0.05,Hard,No issuer above 5% of NAV
+R02,P1,MAX_SECTOR_WEIGHT,*,0.3,Hard,No sector above 30% of NAV
+R03,P1,MIN_CASH_WEIGHT,,0.02,Soft,Hold at least 2% cash for redemptions
+R04,P2,MAX_ISSUER_WEIGHT,,0.05,Hard,No issuer above 5% of NAV (Treasuries exempt)
+R05,P2,MAX_SECTOR_WEIGHT,Financials,0.2,Hard,Financials capped at 20% of NAV
+R06,P2,MIN_CREDIT_RATING,BBB,,Hard,Bonds must be investment grade (BBB or better)
+R07,P2,MIN_CASH_WEIGHT,,0.03,Soft,Hold at least 3% cash for redemptions
+R08,P3,MAX_ISSUER_WEIGHT,,0.05,Hard,No issuer above 5% of NAV
+R09,P3,RESTRICTED_LIST,TOBACCO,,Hard,No tobacco issuers
+R10,P3,RESTRICTED_LIST,FOSSIL_FUELS,,Hard,No fossil fuel issuers
+R11,P3,MAX_SECTOR_WEIGHT,*,0.25,Hard,No sector above 25% of NAV
+R12,P3,MIN_CASH_WEIGHT,,0.02,Soft,Hold at least 2% cash for redemptions
+R13,P4,MAX_ISSUER_WEIGHT,,0.04,Hard,No issuer above 4% of NAV (Treasuries exempt)
+R14,P4,MAX_SECTOR_WEIGHT,*,0.25,Hard,No sector above 25% of NAV
+R15,P4,MIN_CREDIT_RATING,BBB,,Hard,Bonds must be investment grade (BBB or better)
+R16,P4,MIN_CASH_WEIGHT,,0.02,Soft,Hold at least 2% cash for redemptions

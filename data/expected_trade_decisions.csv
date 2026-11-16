@@ -1,0 +1,9 @@
+trade_id,decision,why
+T1,BLOCKED,Pushes Apple to ~5.4% (limit 5%) and cash below 2%
+T2,BLOCKED,Philip Morris is on the TOBACCO restricted list
+T3,APPROVED,Stays inside every guideline
+T4,BLOCKED,"Carnival bond is rated B, below BBB minimum"
+T5,APPROVED,Reduces the existing tech breach and fixes the cash shortfall
+T6,BLOCKED,Worsens the existing tech sector breach
+T7,BLOCKED,Sells more shares than the fund holds
+T8,BLOCKED,Costs more than the fund's available cash
